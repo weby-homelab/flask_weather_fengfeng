@@ -37,3 +37,11 @@ Right now it is 41° and there is a 0% chance of rain.
 ### Today's Weather Forecast for City, State
 
 Right now it is X° and there is a Y% chance of rain.
+
+---
+
+<br>
+<p align="center">
+  Built in Ukraine under air raid sirens &amp; blackouts ⚡<br>
+  &copy; 2026 Weby Homelab
+</p>
